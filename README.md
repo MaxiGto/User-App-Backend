@@ -79,6 +79,9 @@ email: info@drixit.com
 password: other-password
 ```
 
+## Configuration
+
+You can find and edit the configuration in .env file located in the root directory
 
 ## Extra documentation
 
